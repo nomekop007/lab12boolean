@@ -6,7 +6,7 @@
   "scripts": {
     "start:simple-page": "http-server simple-page",
     "start:assets-server": "node assets-server/server.js",
-    "start:real-page": "http-server real-page"    
+    "start:real-page": "http-server real-page"
   },
   "repository": {
     "type": "git",
